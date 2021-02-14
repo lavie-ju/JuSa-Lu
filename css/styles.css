@@ -1,0 +1,92 @@
+/* font inbedded 
+font-family: 'Padauk', sans-serif;
+font-family: 'Patrick Hand', cursive;
+font-family: 'Roboto Mono', monospace;
+*/
+
+/******* Tag Selections *******/
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Patrick Hand', cursive;
+}
+
+h2 {
+  margin: 0;
+}
+
+.sub-title {
+  font-family: 'Roboto Mono', monospace;
+}
+
+.head-container {
+  background-color: #fcd1d1;
+  padding: 20px;
+  position: relative;
+}
+
+.top-cloud {
+  position: relative;
+  top: 30px;
+  left: 300px;
+}
+
+.lulu {
+  color: palevioletred;
+}
+
+.main-title {
+  font-size: 65px;
+}
+.sub-title {
+  font-size: 25px;
+}
+
+.main-container {
+  margin: 30px none;
+}
+
+.life {
+  margin: 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  top: 300px;
+}
+
+.top-container {
+}
+
+.middle-container {
+}
+.main-pics {
+  width: 300px;
+  display: block;
+  margin: 20px auto;
+}
+
+.life-pics {
+  width: 250px;
+  display: block;
+  margin: 20px auto;
+}
+.small-hr {
+  border: dotted;
+  color: grey;
+  width: 20%;
+}
+
+.bottom-container {
+}
+
+.contact-us {
+  margin: 20px;
+}
+
+.contact-gif {
+  width: 250px;
+  display: block;
+  margin: 20px auto;
+}
